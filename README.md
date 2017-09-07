@@ -18,6 +18,7 @@ Key binding | Description
 `C-c C-l` | Load this module in the REPL
 `C-c C-c` | Evaluate the selected region in the REPL
 `C-c C-r` | Apply suggestions from GHC
+`C-c C-k` | Quit without applying suggestions, after `C-c C-r`
 `C-c C-k` | Clear REPL
 `C-c C-z` | Switch to and from the REPL
 
